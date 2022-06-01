@@ -1,0 +1,30 @@
+* {
+  font-family: poppins;
+}
+.background {
+  background-color: #00be3fcc;
+}
+.background1 {
+  background-color: #a5ff99;
+}
+
+.role {
+  float: left;
+}
+.logo {
+  text-align: center;
+  color: #38744c;
+  font-weight: bolder;
+}
+.login {
+  color: black;
+  font-weight: bolder;
+}
+.login1 {
+  color: white;
+  font-weight: bolder;
+}
+.bg-login {
+  background-color: white;
+  border-radius: 40px;
+}
